@@ -145,6 +145,7 @@ file_C			= filegen.c \
 			  file_e01.c \
 			  file_edb.c \
 			  file_ecryptfs.c \
+			  file_electrum.c \
 			  file_elf.c \
 			  file_emf.c \
 			  file_ess.c \
@@ -254,6 +255,7 @@ file_C			= filegen.c \
 			  file_mpl.c \
 			  file_mrw.c \
 			  file_msa.c \
+			  file_multibit.c \
 			  file_mus.c \
 			  file_mxf.c \
 			  file_myo.c \
@@ -290,6 +292,7 @@ file_C			= filegen.c \
 			  file_prc.c \
 			  file_prd.c \
 			  file_prt.c \
+			  file_prvkey.c \
 			  file_ps.c \
 			  file_psb.c \
 			  file_psd.c \
